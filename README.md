@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![HF Space](https://img.shields.io/badge/HuggingFace-Space-orange?logo=huggingface)](https://huggingface.co/spaces/krishnacheliaah/GAIA_Agent)
 
 <!--
 **krishnacheliaah/krishnacheliaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
